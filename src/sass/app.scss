@@ -1,2 +1,12 @@
+/** Libraries */
 @import "~bootstrap";
+
+/** Settings */
+@import "includes/colors";
+@import "includes/fonts";
+
+/** Main Theme */
 @import "includes/main";
+
+/** Pages */
+@import "pages/blog";
